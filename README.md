@@ -1,2 +1,2 @@
 # Django-Security
-Learning to secure aan application written using Django framework
+Learning to secure an application written using Django framework
